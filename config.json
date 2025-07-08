@@ -2,63 +2,63 @@
     "avatarSize": 800,
     "initialImage": {
         "webp": "",
-        "legacy": "./img/user.png"
+        "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/user.png"
     },
     "templates": [
         {
             "src": {
                 "webp": "",
-                "legacy": "./img/useless/useless_bl.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_bl.png"
             },
             "preview": {
                 "webp": "",
-                "legacy": "./img/useless/useless_bl_200.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_bl_200.png"
             },
             "example": {
                 "webp": "",
-                "legacy": "./img/useless/useless_bl_example.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_bl_example.png"
             }
         },
         {
             "src": {
                 "webp": "",
-                "legacy": "./img/useless/useless_br.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_tl.png"
             },
             "preview": {
                 "webp": "",
-                "legacy": "./img/useless/useless_br_200.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_tl_200.png"
             },
             "example": {
                 "webp": "",
-                "legacy": "./img/useless/useless_br_example.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_tl_example.png"
             }
         },
         {
             "src": {
                 "webp": "",
-                "legacy": "./img/useless/useless_tl.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_br.png"
             },
             "preview": {
                 "webp": "",
-                "legacy": "./img/useless/useless_tl_200.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_br_200.png"
             },
             "example": {
                 "webp": "",
-                "legacy": "./img/useless/useless_tl_example.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_br_example.png"
             }
         },
         {
             "src": {
                 "webp": "",
-                "legacy": "./img/useless/useless_tr.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_tr.png"
             },
             "preview": {
                 "webp": "",
-                "legacy": "./img/useless/useless_tr_200.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_tr_200.png"
             },
             "example": {
                 "webp": "",
-                "legacy": "./img/useless/useless_tr_example.png"
+                "legacy": "https://github.com/legitimatedev/profile-picture-frame/blob/main/img/useless/useless_tr_example.png"
             }
         }
     ]
